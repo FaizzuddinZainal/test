@@ -1,3 +1,15 @@
+- The framework you’re using (VueJS/Angular/React/Others) 
+  React
+- The CSS framework you’re using for your application (Bootstrap/Tailwind/Others)
+  None
+- The plugin used in the application (if applicable, only major plugin).
+  None
+- The configuration needed (attach environment file if applicable)
+  None
+- The instructions on how to install and run the application.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
